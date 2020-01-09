@@ -1,0 +1,8 @@
+[user]
+	email = jan.likar@protonmail.com
+	name = Jan Likar
+[alias]
+	st = status
+        co = checkout
+        cob = checkout -b
+        ci = commit
