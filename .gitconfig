@@ -10,3 +10,5 @@
         ci = commit
         br = branch
         ap = add -p
+        apa = commit --patch --amend --no-edit
+        ll = log --oneline
